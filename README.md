@@ -26,7 +26,9 @@ Built a virtual Active Directory environment using VMware to simulate a real-wor
 
 ## Screenshots
 ![AD Users](ad-users.png)
+
 ![GPO](gpo-config.png)
+
 ![Login](domain-login.png)
 
 ## Skills Demonstrated
