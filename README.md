@@ -25,9 +25,15 @@ Built a virtual Active Directory environment using VMware to simulate a real-wor
 - Troubleshot domain connectivity issues
 
 ## Screenshots
+AD Users
+
 ![AD Users](ad-users.png)
 
+GPO
+
 ![GPO](gpo-config.png)
+
+Login
 
 ![Login](domain-login.png)
 
